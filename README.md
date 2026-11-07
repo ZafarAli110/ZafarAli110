@@ -7,7 +7,7 @@
 I help enterprises modernize at scale:<br/>
 AI agents and the harnesses that make them reliable,<br/>
 the platforms teams ship on, and software that stays fast.<br/>
-I also run trainings &amp; workshops on harness engineering.
+I help teams adopt AI that works, through trainings &amp; workshops.
 
 <br/>
 
