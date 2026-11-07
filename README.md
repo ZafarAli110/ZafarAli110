@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=AI+%26+agentic+engineering;Harness+engineering;Platform+engineering;Performance+at+real+scale" alt="AI and agentic engineering · Harness engineering · Platform engineering · Performance at real scale" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=AI+%26+agentic+engineering;Harness+engineering;Platform+engineering;Performance+engineering" alt="AI and agentic engineering · Harness engineering · Platform engineering · Performance engineering" />
 
 ### Hi, I'm Zafar Ali
 
-I make coding agents reliable in real software delivery: the harness around the model,<br/>
-the platform under it, and software that stays fast at real scale.
-
-<sub>Now: harness engineering and the AI-DLC with Claude Code, from ticket to verified pull request.</sub>
+I build with AI agents and the harnesses that make them reliable, the platforms teams ship on<br/>
+(CI/CD, deployments, monitoring, internal tools), and software that stays fast at scale.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,bun,nodejs,react,nestjs,cs,dotnet,postgres,rabbitmq,docker,githubactions,vite&theme=dark&perline=12" alt="TypeScript, Bun, Node.js, React, NestJS, C#, .NET, PostgreSQL, RabbitMQ, Docker, GitHub Actions, Vite" />
+<img src="https://skillicons.dev/icons?i=ts,bun,nodejs,react,nestjs,cs,dotnet,postgres,rabbitmq&theme=dark&perline=9" alt="TypeScript, Bun, Node.js, React, NestJS, C#, .NET, PostgreSQL, RabbitMQ" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,ansible,githubactions,bitbucket,powershell,bash,linux&theme=dark&perline=8" alt="Docker, Jenkins, Ansible, GitHub Actions, Bitbucket, PowerShell, Bash, Linux" />
 
 <sub>and Claude Code · MCP · Aspire</sub>
 
