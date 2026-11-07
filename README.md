@@ -21,9 +21,9 @@ I help teams adopt AI that works, through trainings &amp; workshops.
 <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="44" height="44" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="44" height="44" alt=".NET" /></a>
 <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" title="Blazor"><img src="icons/blazor.svg" width="44" height="44" alt="Blazor" /></a>
+<br/>
 <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="44" height="44" alt="PostgreSQL" /></a>
 <a href="https://www.rabbitmq.com" title="RabbitMQ"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="44" height="44" alt="RabbitMQ" /></a>
-<br/>
 <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="44" height="44" alt="Docker" /></a>
 <a href="https://www.jenkins.io" title="Jenkins"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="44" height="44" alt="Jenkins" /></a>
 <a href="https://www.ansible.com" title="Ansible"><img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="44" height="44" alt="Ansible" /></a>
