@@ -1,38 +1,25 @@
-# Zafar Ali
+<div align="center">
 
-**AI engineering · Agentic engineering · Harness engineering · Platform engineering · Performance**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=AI+%26+agentic+engineering;Harness+engineering;Platform+engineering;Performance+at+real+scale" alt="AI and agentic engineering · Harness engineering · Platform engineering · Performance at real scale" />
 
-I work on AI-native software delivery: building with coding agents, and the harness around them that makes them
-reliable. That means the rules, tools, hooks, permissions, reviewers and checks that turn a model into a teammate you
-can trust with a ticket, across the whole AI-DLC, from ticket to verified pull request. Under it, the platform that
-lets a team and its agents move fast: one command to run every service, shared service defaults, a gateway, gates that
-run on every commit. And I care about speed: software that stays fast at real data sizes, and agents whose cost you
-can see while they work.
+### Hi, I'm Zafar Ali
 
-## Featured: Harness Engineering and AI-DLC with Claude Code
+I make coding agents reliable in real software delivery: the harness around the model,<br/>
+the platform under it, and software that stays fast at real scale.
 
-A workshop I created and ran for Contour Software Engineering (November 2026): how a model becomes a coding agent, and
-how a coding agent takes a ticket all the way to a verified, reviewed pull request.
+<sub>Now: harness engineering and the AI-DLC with Claude Code, from ticket to verified pull request.</sub>
 
-| Repository | What it is |
-| --- | --- |
-| [harness-engineering-slides](https://github.com/ZafarAli110/harness-engineering-slides) | the slides ([open them](https://zafarali110.github.io/harness-engineering-slides/)) |
-| [tiny-harness](https://github.com/ZafarAli110/tiny-harness) | a coding-agent harness built in six steps, on a small local model: the agent loop, rules, permissions, limits, verification |
-| [acme-dms](https://github.com/ZafarAli110/acme-dms) | a realistic dealer management system (TypeScript, NestJS, C#, .NET, React, Aspire): lab branches from a bare start to ticket-to-PR, each adding one piece of the harness |
-| [acme-tracker](https://github.com/ZafarAli110/acme-tracker) | a small Jira-like backlog with an MCP server, so agents read and move tickets as they work |
-| [claude-code-cost-meter](https://github.com/ZafarAli110/claude-code-cost-meter) | a Claude Code plugin: live cost, tokens, context window and every subagent's cost |
-| [agent-slides](https://github.com/ZafarAli110/agent-slides) | slides your coding agent writes, and a harness that checks them |
+<br/>
 
-## How I work
+<img src="https://skillicons.dev/icons?i=ts,bun,nodejs,react,nestjs,cs,dotnet,postgres,rabbitmq,docker,githubactions,vite&theme=dark&perline=12" alt="TypeScript, Bun, Node.js, React, NestJS, C#, .NET, PostgreSQL, RabbitMQ, Docker, GitHub Actions, Vite" />
 
-- **Harness over prompts.** What must hold every time belongs in a hook, a permission or a check, not a sentence the
-  model may skip.
-- **Evidence over claims.** A change is done when it is verified in the running system, with evidence anyone can re-run.
-- **A platform, not a pile of services.** One command runs everything (Aspire); every service shares its defaults
-  (telemetry, auth, errors, health); every project answers the same targets (format, lint, typecheck, test).
-- **Performance at real sizes.** Query plans, streaming over loading, and data sets with millions of rows, not ten.
-- **Cost you can see.** Tokens and spend measured during the run, so a habit is chosen on numbers.
+<sub>and Claude Code · MCP · Aspire</sub>
 
-## Stack
+<br/><br/>
 
-TypeScript · Bun · Node.js · React · NestJS · C# · .NET · Aspire · PostgreSQL · RabbitMQ · Claude Code · MCP
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ZafarAli110&show_icons=true&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZafarAli110&layout=compact&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=ZafarAli110&background=0d1117&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" alt="Contribution streak" />
+
+</div>
