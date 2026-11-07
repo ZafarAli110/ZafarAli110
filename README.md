@@ -15,9 +15,12 @@ I help teams adopt AI that works, through trainings &amp; workshops.
 <a href="https://bun.sh" title="Bun"><img src="https://skillicons.dev/icons?i=bun&theme=dark" width="44" height="44" alt="Bun" /></a>
 <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44" height="44" alt="Node.js" /></a>
 <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" height="44" alt="React" /></a>
+<a href="https://reactnative.dev" title="React Native"><img src="icons/react-native.svg" width="44" height="44" alt="React Native" /></a>
 <a href="https://nestjs.com" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="44" height="44" alt="NestJS" /></a>
+<a href="https://hono.dev" title="Hono"><img src="icons/hono.svg" width="44" height="44" alt="Hono" /></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="44" height="44" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="44" height="44" alt=".NET" /></a>
+<a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" title="Blazor"><img src="icons/blazor.svg" width="44" height="44" alt="Blazor" /></a>
 <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="44" height="44" alt="PostgreSQL" /></a>
 <a href="https://www.rabbitmq.com" title="RabbitMQ"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="44" height="44" alt="RabbitMQ" /></a>
 <br/>
