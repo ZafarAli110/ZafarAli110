@@ -4,9 +4,10 @@
 
 ### Hi, I'm Zafar Ali
 
-I help enterprises modernize at scale: AI agents and the harnesses that make them reliable,<br/>
-the platforms teams ship on (CI/CD, deployments, monitoring, internal tools), and software that stays fast.<br/>
-I also run trainings and workshops on agentic and harness engineering.
+I help enterprises modernize at scale:<br/>
+AI agents and the harnesses that make them reliable,<br/>
+the platforms teams ship on, and software that stays fast.<br/>
+I also run trainings &amp; workshops on harness engineering.
 
 <br/>
 
