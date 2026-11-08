@@ -35,8 +35,8 @@ I help teams adopt AI that works, through trainings &amp; workshops.
 <br/>
 <a href="https://claude.com/product/claude-code" title="Claude Code"><img src="icons/claude-code.svg" width="44" height="44" alt="Claude Code" /></a>
 <a href="https://openai.com/codex/" title="Codex"><img src="icons/codex.svg" width="44" height="44" alt="Codex" /></a>
-
-<sub>and MCP · Aspire</sub>
+<a href="https://modelcontextprotocol.io" title="Model Context Protocol (MCP)"><img src="icons/mcp.svg" width="44" height="44" alt="MCP" /></a>
+<a href="https://aspire.dev" title="Aspire"><img src="icons/aspire.svg" width="44" height="44" alt="Aspire" /></a>
 
 <br/><br/>
 
