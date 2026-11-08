@@ -32,12 +32,14 @@ I help teams adopt AI that works, through trainings &amp; workshops.
 <a href="https://learn.microsoft.com/powershell/" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="44" height="44" alt="PowerShell" /></a>
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="44" height="44" alt="Bash" /></a>
 <a href="https://www.kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" height="44" alt="Linux" /></a>
+<br/>
+<a href="https://claude.com/product/claude-code" title="Claude Code"><img src="icons/claude-code.svg" width="44" height="44" alt="Claude Code" /></a>
+<a href="https://openai.com/codex/" title="Codex"><img src="icons/codex.svg" width="44" height="44" alt="Codex" /></a>
 
-<sub>and Claude Code · MCP · Aspire</sub>
+<sub>and MCP · Aspire</sub>
 
 <br/><br/>
 
-<a href="https://github.com/ZafarAli110?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api?username=ZafarAli110&show_icons=true&bg_color=0d1117&hide_border=true&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" alt="GitHub stats" /></a>
 <a href="https://github.com/ZafarAli110?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZafarAli110&layout=compact&bg_color=0d1117&hide_border=true&title_color=a78bfa&text_color=c9d1d9" alt="Most used languages" /></a>
 
 <a href="https://github.com/ZafarAli110"><img src="https://streak-stats.demolab.com?user=ZafarAli110&background=0d1117&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" alt="Contribution streak" /></a>
